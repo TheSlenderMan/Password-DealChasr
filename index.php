@@ -14,7 +14,8 @@
     <meta name="theme-color" content="#ffffff">
 
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous" ></script>
-    <script src="http://password.dealchasr.co.uk/js/common.js" type="text/javascript" ></script>
+    <script src="http://password.dealchasr.co.uk/js/token.js" type="text/javascript" ></script>
+	<script src="http://password.dealchasr.co.uk/js/common.js" type="text/javascript" ></script>
 </head>
 <body>
 <div id="master-container" >
